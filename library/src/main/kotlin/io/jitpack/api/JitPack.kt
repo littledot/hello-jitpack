@@ -1,5 +1,3 @@
-package kotlin.io.jitpack.api
+package io.jitpack.api
 
-class Hello{
-  val world = 1
-}
+val helloJitpack = 1
